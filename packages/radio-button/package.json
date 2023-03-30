@@ -6,6 +6,9 @@
     "radio button",
     "button"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@lionkeng"
+  },
   "author": "Keng Lim <lionkeng@gmail.com>",
   "homepage": "https://github.com/lionkeng/lerna-rollup-storybook-typescript-react#README",
   "license": "ISC",
