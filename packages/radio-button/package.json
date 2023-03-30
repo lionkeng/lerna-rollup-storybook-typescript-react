@@ -1,5 +1,5 @@
 {
-  "name": "@lionkeng/radio-button",
+  "name": "radio-button",
   "version": "0.0.1-alpha.0",
   "description": "radio button",
   "keywords": [
@@ -11,7 +11,7 @@
   },
   "author": "Keng Lim <lionkeng@gmail.com>",
   "homepage": "https://github.com/lionkeng/lerna-rollup-storybook-typescript-react#README",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
@@ -35,5 +35,6 @@
     "@types/react": "^18.0.31",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "gitHead": "aa09357c2feaf28ba9e11883155cff9e88bac734"
 }
