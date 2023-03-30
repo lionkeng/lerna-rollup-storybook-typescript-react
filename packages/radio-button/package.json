@@ -7,7 +7,7 @@
     "button"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@lionkeng"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Keng Lim <lionkeng@gmail.com>",
   "homepage": "https://github.com/lionkeng/lerna-rollup-storybook-typescript-react#README",
@@ -36,5 +36,5 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "gitHead": "1ad219bef5d6e3fa57825a4fc87f33743dc2921d"
+  "gitHead": "a4839e47fc5ad1ba3ff07f3e314ed1884bc84b94"
 }
