@@ -5,8 +5,7 @@ export default {
   output: [
     {
       dir: './lib',
-      format: 'cjs',
-      sourcemap: true,
+      format: 'esm',
     },
   ],
   plugins: [typescript()],
