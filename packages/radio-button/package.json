@@ -1,0 +1,36 @@
+{
+  "name": "@lionkeng/radio-button",
+  "version": "0.0.0",
+  "description": "radio button",
+  "keywords": [
+    "radio button",
+    "button"
+  ],
+  "author": "Keng Lim <lionkeng@gmail.com>",
+  "homepage": "https://github.com/lionkeng/lerna-rollup-storybook-typescript-react#README",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lionkeng/lerna-rollup-storybook-typescript-react.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/RadioButton.test.js",
+    "rollup": "rollup --config rollup.config.ts --configPlugin typescript"
+  },
+  "bugs": {
+    "url": "https://github.com/lionkeng/lerna-rollup-storybook-typescript-react/issues"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
