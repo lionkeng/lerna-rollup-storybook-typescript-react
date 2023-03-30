@@ -1,5 +1,5 @@
 {
-  "name": "radio-button",
+  "name": "@lionkeng/radio-button",
   "version": "0.0.1-alpha.1",
   "description": "radio button",
   "keywords": [
@@ -36,5 +36,5 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "gitHead": "aa09357c2feaf28ba9e11883155cff9e88bac734"
+  "gitHead": "1ad219bef5d6e3fa57825a4fc87f33743dc2921d"
 }
